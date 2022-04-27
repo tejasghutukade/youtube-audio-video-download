@@ -1,0 +1,21 @@
+{
+  "name": "ytplayer",
+  "version": "0.0.1",
+  "description": "youtube player backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "Tejas Ghutukade",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "chalk": "^5.0.1",
+    "figlet": "^1.5.2",
+    "inquirer": "^8.2.3",
+    "shelljs": "^0.8.5",
+    "youtube-dl-exec": "^2.0.11",
+    "youtube-search-without-api-key": "^1.0.7"
+  }
+}
