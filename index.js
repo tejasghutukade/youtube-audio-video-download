@@ -145,9 +145,7 @@ const askQuestions = () => {
 };
 
 const Finished = () => {
-    console.log(
-        chalk.white.bgGreen.bold(`Done!`)
-    );
+    console.log(chalk.white.bgGreen.bold(`Done!`));
 };
   
 
